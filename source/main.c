@@ -1,6 +1,6 @@
 /*
-	Hello World example made by Aurelio Mannara for ctrulib
-	This code was modified for the last time on: 12/12/2014 21:00 UTC+1
+	Conway's Game of Life made by Jordi Llopis
+	21/08/2015 13:45
 
 	This wouldn't be possible without the amazing work done by:
 	-Smealum
